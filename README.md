@@ -8,4 +8,4 @@ Exploring Augmented Reality applications using OpenCV
 
 ### Demo
 
-* Demo of Rotations - coming soon
+* coming soon
