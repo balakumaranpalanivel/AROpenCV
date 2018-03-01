@@ -4,8 +4,8 @@ Exploring Augmented Reality applications using OpenCV
 
 ## Features
 
-* Boiler Plate code - features coming soon
+* Simple Edge Detection
 
 ### Demo
 
-* coming soon
+* Edge Detection - https://youtu.be/5QvIoStI_P0
